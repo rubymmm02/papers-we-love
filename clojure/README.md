@@ -1,5 +1,5 @@
 # Clojure
-
+Operationally, a closure is a record storing a function together with an environment: a mapping associating each free variable of the function (variables that are used locally, but defined in an enclosing scope) with the value or reference to which the name was bound when the closure was created.
 This is a cross-listing of papers related to Clojure, it's core, contrib and popular libraries. Papers noted at Clojure talks, meetups, and conferences can be found here as well.
 ## Data Structures
 * core.rrb-vector
